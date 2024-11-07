@@ -1,5 +1,7 @@
 # Library Management CLI in Golang
 
+ [![Robot](https://img.shields.io/badge/Robot-00ADD8?style=flat&logo=robot&logoColor=white)](https://sites.google.com/view/tavakoli/home)
+
 A simple command-line application for managing a library of books. This program allows users to add, list, search, and delete books. Built as a practice project to learn `struct` and input/output functions in Golang.
 
 ## Features
