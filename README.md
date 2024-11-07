@@ -9,7 +9,7 @@ A simple command-line application for managing a library of books. This program 
 - Delete a book by ID
 
 ## Requirements
-- Golang 1.16 or higher
+- Golang 1 or higher
 
 ## Running the Project
 
