@@ -10,6 +10,3 @@ type Book struct {
 
 // addBook adds a new book to the library collection.
 func addBook(scanner *bufio.Scanner) { ... }
-
-``` bash 
-go run library_manager.go
