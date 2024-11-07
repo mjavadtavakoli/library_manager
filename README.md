@@ -1,6 +1,7 @@
 ## Running the Project
-go run .
 
 
 ```bash
+go run .
+
 go run library_manager.go
