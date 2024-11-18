@@ -21,6 +21,5 @@ Clone the repository:
 ```bash
 git clone https://github.com/username/library-manager
 cd library-manager
-
-
+```
 ![Alt text](https://github.com/mjavadtavakoli/library_manager/blob/main/gopher.svg)
