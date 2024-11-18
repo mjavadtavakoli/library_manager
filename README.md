@@ -7,7 +7,7 @@
 A simple command-line application for managing a library of books. This program allows users to add, list, search, and delete books. Built as a practice project to learn `struct` and input/output functions in Golang.
 
 ![Alt text](https://github.com/mjavadtavakoli/library_manager/blob/main/gopher.svg)
-<img src="https://github.com/mjavadtavakoli/library_manager/blob/main/gopher.svg="100"/>
+<img src="https://github.com/mjavadtavakoli/library_manager/blob/main/gopher.svg="10"/>
 
 ## Features
 - Add a new book
