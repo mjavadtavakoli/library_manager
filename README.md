@@ -26,9 +26,3 @@ cd library-manager
 
 
 
-
-### Windows
-
-On Windows download the [latest release](https://github.com/tommy-muehle/go-mnd/releases).
-
-## Usage
