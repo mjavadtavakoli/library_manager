@@ -23,3 +23,12 @@ git clone https://github.com/username/library-manager
 cd library-manager
 ```
 ![Alt text](https://github.com/mjavadtavakoli/library_manager/blob/main/gopher.svg)
+
+
+
+
+### Windows
+
+On Windows download the [latest release](https://github.com/tommy-muehle/go-mnd/releases).
+
+## Usage
